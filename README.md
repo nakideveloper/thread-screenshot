@@ -1,0 +1,2 @@
+# thread-screenshot
+SlackやChatGPT、Claude、Geminiのチャット欄を自動スクロールして全体をキャプチャするChrome拡張機能です。
